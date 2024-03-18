@@ -27,6 +27,7 @@
 		<drawerType>MapMeshAndRealTime</drawerType>
 		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     	<fillPercent>0.80</fillPercent>
+		<disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
 		<comps>
 			<li Class="SeamlessEmbrasures.CompProperties_EmbrasureOverlay">
 				<embrasureGraphics>
@@ -78,6 +79,7 @@
 		<drawerType>MapMeshAndRealTime</drawerType>
 		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     	<fillPercent>0.80</fillPercent>
+		<disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
 		<comps>
 			<li Class="SeamlessEmbrasures.CompProperties_EmbrasureOverlay">
 				<embrasureGraphics>
