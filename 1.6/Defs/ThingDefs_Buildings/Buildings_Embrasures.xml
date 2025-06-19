@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
 	<ThingDef ParentName="Wall">
@@ -26,8 +26,11 @@
 		</graphicData>
 		<drawerType>MapMeshAndRealTime</drawerType>
 		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
-    	<fillPercent>0.80</fillPercent>
+		<fillPercent>0.80</fillPercent>
 		<disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
+		<building>
+			<isStuffableAirtight>false</isStuffableAirtight>
+		</building>
 		<comps>
 			<li Class="SeamlessEmbrasures.CompProperties_EmbrasureOverlay">
 				<embrasureGraphics>
@@ -78,8 +81,11 @@
 		</graphicData>
 		<drawerType>MapMeshAndRealTime</drawerType>
 		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
-    	<fillPercent>0.80</fillPercent>
+		<fillPercent>0.80</fillPercent>
 		<disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
+		<building>
+			<isStuffableAirtight>false</isStuffableAirtight>
+		</building>
 		<comps>
 			<li Class="SeamlessEmbrasures.CompProperties_EmbrasureOverlay">
 				<embrasureGraphics>
