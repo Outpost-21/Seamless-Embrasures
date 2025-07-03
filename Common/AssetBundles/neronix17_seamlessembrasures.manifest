@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2960423049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70877e4015e392ced42f25bfa15e1361
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70877e4015e392ced42f25bfa15e1361
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/Overlay/Holes/Holes_Atlas_Smooth.png
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/ModIcon.png
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/Overlay/Holes/Holes_Atlas_Bricks.png
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/Overlay/Embrasure/Embrasure_Atlas_Smooth.png
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/Overlay/Embrasure/Embrasure_Atlas_Planks.png
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/Overlay/Embrasure/Embrasure_Atlas_Bricks.png
+- Assets/Data/Neronix17.SeamlessEmbrasures/Textures/SeamlessEmbrasures/Overlay/Holes/Holes_Atlas_Planks.png
+Dependencies: []
