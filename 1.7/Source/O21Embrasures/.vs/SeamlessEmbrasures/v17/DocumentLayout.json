@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SeamlessEmbrasures||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\embrasuresmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|solutionrelative:embrasuresmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\embrasuredefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|solutionrelative:embrasuredefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE3C75C-92B6-4E73-9322-687E73288584}|SeamlessEmbrasures.csproj|f:\\rwmodcategories\\neronix17\\_smallmods\\seamless embrasures\\1.6\\source\\o21embrasures\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:18:48.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmbrasuresMod.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\EmbrasuresMod.cs",
+              "RelativeDocumentMoniker": "EmbrasuresMod.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\EmbrasuresMod.cs",
+              "RelativeToolTip": "EmbrasuresMod.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:17:28.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeamlessEmbrasures",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\SeamlessEmbrasures.csproj",
+              "RelativeDocumentMoniker": "SeamlessEmbrasures.csproj",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\SeamlessEmbrasures.csproj",
+              "RelativeToolTip": "SeamlessEmbrasures.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2022-11-02T12:43:49.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmbrasureDefOf.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\EmbrasureDefOf.cs",
+              "RelativeDocumentMoniker": "EmbrasureDefOf.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Seamless Embrasures\\1.6\\Source\\O21Embrasures\\EmbrasureDefOf.cs",
+              "RelativeToolTip": "EmbrasureDefOf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:17:28.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
